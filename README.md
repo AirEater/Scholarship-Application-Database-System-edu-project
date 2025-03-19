@@ -26,7 +26,7 @@ It features **database normalization, ER modeling, query optimization, and user-
 ---
 
 ## Authors
-- ""Leong Yee Chung**
-- ""Ang Ching Siang**
-- ""Lee Jia Jie**
-- ""Liu Zhi Hui**
+- **Leong Yee Chung**
+- **Ang Ching Siang**
+- **Lee Jia Jie**
+- **Liu Zhi Hui**
